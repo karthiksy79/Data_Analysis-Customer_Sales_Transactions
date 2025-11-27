@@ -12,8 +12,8 @@ This project provides an interactive data visualization of **Customer Sales Tran
 1. [Project Overview](#project-overview)
 2. [Data Overview](#data-overview)
 3. [Key Insights](#key-insights)
-4. [Visualization Features](#visualization-features)
-5. [License](#license)
+4. [License](#license)
+5. [Conclusion](#conclusion) 
 
 ---
 
@@ -50,6 +50,21 @@ The dashboard provides insights such as:
 * **Customer Demographics**: Explore customer purchasing behavior by age, gender, or location.
 * **Store Performance**: View sales performance across different stores and product categories.
 
+Examples : 
+
+Total Customers vs City Code:
+  
+<img width="738" height="732" alt="12" src="https://github.com/user-attachments/assets/64cad747-68e9-4661-8dd6-ff50a5b00ce1" />    
+  
+<br />   
+    
+  
+5 Number Summary:
+  
+  <img width="685" height="730" alt="23" src="https://github.com/user-attachments/assets/6d72b394-dd34-4e26-bb5d-7343317168f0" />
+
+
+
 ---
 
 ## **License**
@@ -64,8 +79,3 @@ The content of this visualization is licensed under the Creative Commons Attribu
 This README provides a clear overview of the **Customer Sales Transactions** data visualization project. By interacting with the dashboard, users can explore sales trends, customer behaviors, and store performance, providing valuable insights for business analysis. Feel free to explore the dashboard and experiment with different filters to uncover actionable insights.
 
 ---
-
-
-
-`ANOTHER_API_KEY`
-
